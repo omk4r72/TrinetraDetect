@@ -1,3 +1,4 @@
+![TrinetraDetect Logo](TrinetraDetect.png)
 # 🔥 TrinetraDetect - Adaptive Malware Detection System  
 
 TrinetraDetect is a **cross-platform malware detection framework** designed to detect **advanced threats** like:  
