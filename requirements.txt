@@ -1,0 +1,6 @@
+psutil
+joblib
+numpy
+pycuda
+stegano
+yara-python
