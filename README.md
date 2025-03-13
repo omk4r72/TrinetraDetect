@@ -21,4 +21,5 @@ TrinetraDetect is a **cross-platform malware detection framework** designed to d
 ```bash
 git clone https://github.com/YOUR_GITHUB_USERNAME/TrinetraDetect.git  
 cd TrinetraDetect
+pip install -r requirements.txt
 python3 TrinetraDetect.py
