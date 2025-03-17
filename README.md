@@ -24,3 +24,6 @@ git clone https://github.com/YOUR_GITHUB_USERNAME/TrinetraDetect.git
 cd TrinetraDetect
 pip3 install -r requirements.txt
 python3 TrinetraDetect.py
+## Additional Added The Bash Script
+sudo ./TrinetraDetect 
+
